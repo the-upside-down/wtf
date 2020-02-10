@@ -1,4 +1,5 @@
 # wtf
+
 Why the friction?! and other pubescent designer mindset mysteries!
 
 ## Motivation
@@ -12,3 +13,7 @@ The uncommon denominator of our humanity, how we judge. So while error often hap
 Given this divide, there is clearly a higher potential for premature dismissal of issues being raised by someone who writes less neurotypically. This means that over time, there is growing failure to equally provide a frictionless experience for those who are made to be more affected by friction, and that only grows exponentially when the prevailing pubescent designer mindset seems to only every aspire to popularity in mainstream.
 
 Solving this problem is not possible without expressing and documenting the skewed dynamics and the underlying causes, in ways that are motivating for people across the board — that it takes everyone!
+
+## Participating and Contributing
+
+See the [CONTRIBUTING.md](./CONTRIBUTING.md) document to get started.
