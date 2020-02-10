@@ -6,6 +6,12 @@ This repository is meant to organically evolve through community contributions. 
 
 See the [README.md](./README.md) first please, and always try to keep current with any changes to either documents!
 
+### Meetings
+
+At the moment, please feel free to join the our bi-weekly brainstorming sessions.
+
+See the [Google Calendar](https://calendar.google.com/calendar/embed?src=smotaal.io_ntnsniho53rjob5cbv1ukavljo%40group.calendar.google.com&ctz=America%2FToronto) for upcoming meeting times.
+
 ### Opening Issues
 
 There are no firm rules, just a few recommendations:
